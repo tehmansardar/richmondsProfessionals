@@ -1,0 +1,9 @@
+/*Theme Name:My Listing Child
+Template:my-listing*/
+
+/* .menu-item-object-page:first-child {
+	border-bottom: 2px solid #1e73be;
+} */
+.catSelected {
+	border-bottom: 2px solid #1e73be;
+}
